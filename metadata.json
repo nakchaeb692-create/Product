@@ -1,0 +1,6 @@
+{
+  "name": "StockPulse - Google Sheets Product Management",
+  "description": "Clean, modern product management web application powered by Google Sheets and Google Apps Script, featuring real-time inventory tracking, stock analytics, and automated reorder alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
